@@ -18,6 +18,7 @@
     <h2>Installation</h2>
     <ol>
       <li>Clone this repository: <code>git clone https://github.com/Dragon4926/Discord-MusicBot.git</code></li>
+      <li>Download <code>ffmpeg</code> from <a href="https://www.ffmpeg.org/download.html">here</a>.</li>
       <li>Install dependencies: <code>npm install</code> *It will automatically install the dependencies mentioned in package.json*</li>
       <li>Create a Discord bot account and get its token<a href="#">Guide</a> *will provide the links for guides in future*</li>
       <li>Add the bot to your Discord server: <a href="#">Guide</a></li>
