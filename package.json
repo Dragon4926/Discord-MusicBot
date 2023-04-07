@@ -1,0 +1,20 @@
+{
+  "name": "discord-music-bot",
+  "index": "index.js",
+  "author": "Ryuga",
+  "version": "1.0.0",
+  "repository": "https://github.com/Dragon4926/Discord-MusicBot",
+  "description": "A personal discord music bot",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discord-player/extractor": "^4.1.2",
+    "discord-player": "^6.1.1",
+    "discord.js": "^14.1.2",
+    "dotenv": "^16.0.3",
+    "ms": "^3.0.0-canary.1",
+    "opusscript": "^0.0.8",
+    "ytdl-core": "^4.11.3"
+  }
+}
