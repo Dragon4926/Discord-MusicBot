@@ -23,7 +23,6 @@
       <li>Create a Discord bot account and get its token<a href="#">Guide</a> *will provide the links for guides in future*</li>
       <li>Add the bot to your Discord server: <a href="#">Guide</a></li>
       <li>use the below code as <code>config.js</code> and fill out the required information.</li>
-      <h2>Code Block</h2>
     <pre><code>module.exports = {
     app: {
         token: 'Your bot token',
